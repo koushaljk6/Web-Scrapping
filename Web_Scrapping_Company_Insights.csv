@@ -1,0 +1,301 @@
+Company_name,Company_rating,Reviews,Salary,Jobs_Provided,Company_Size,Industry
+Tata Consultancy Services,3.9,1.3L,1.3L,1.5T,10000+ Employees,Software Development
+Accenture,4.1,1.5L,78.7T,27.5T,10000+ Employees,Business Consulting
+Amazon,4.1,1.8L,43.3T,15.1T,10000+ Employees,Internet & Web Services
+Cognizant Technology Solutions,3.8,86.2T,71.7T,2.1T,10000+ Employees,Information Technology Support Services
+Deloitte,4.1,1L,34.1T,35.2T,10000+ Employees,Accounting & Tax
+Capgemini,4,71T,47T,8.7T,10000+ Employees,Enterprise Software & Network Solutions
+IBM,4.2,1.1L,33.4T,4T,10000+ Employees,Information Technology Support Services
+EY,3.9,72.9T,19.3T,11.5T,10000+ Employees,Accounting & Tax
+HCLTech,3.7,41.1T,33.7T,515,10000+ Employees,Computer Hardware Development
+Oracle,4,49.7T,19.5T,4.3T,10000+ Employees,Enterprise Software & Network Solutions
+PwC,3.9,74.1T,11.6T,22.6T,1001 to 5000 Employees,Accounting & Tax
+Tech Mahindra,3.6,32.3T,25.5T,419,10000+ Employees,Information Technology Support Services
+Microsoft,4.3,49.7T,9.9T,1.6T,10000+ Employees,Computer Hardware Development
+Teleperformance,4.5,49.9T,8.6T,1.2T,10000+ Employees,Telecommunications Services
+KPMG,3.8,56.5T,10.8T,12.7T,10000+ Employees,Business Consulting
+Google,4.4,45.8T,8.5T,1.9T,10000+ Employees,Internet & Web Services
+Dell Technologies,4.3,33.3T,10T,154,10000+ Employees,Information Technology Support Services
+Cisco Systems,4.4,31.7T,8T,444,10000+ Employees,Enterprise Software & Network Solutions
+Wells Fargo,3.7,46.4T,5.2T,2.9T,10000+ Employees,Banking & Lending
+Genpact,4,20.6T,15.7T,2.8T,10000+ Employees,Information Technology Support Services
+DXC Technology,3.6,24T,10.3T,1.6T,10000+ Employees,Information Technology Support Services
+Concentrix,4.3,30.5T,9.1T,1.4T,10000+ Employees,Information Technology Support Services
+LTI,3.8,12.3T,11.6T,804,10000+ Employees,Information Technology Support Services
+Citi,3.9,31.9T,4.7T,6.6T,10000+ Employees,Investment & Asset Management
+Intel Corporation,4.1,29.3T,4.2T,1.3T,10000+ Employees,Computer Hardware Development
+J.P. Morgan,4.1,23.5T,7.4T,21,10000+ Employees,Investment & Asset Management
+SAP,4.4,28.4T,5.1T,2T,10000+ Employees,Enterprise Software & Network Solutions
+ABC,3.9,15T,10.9T,40,10000+ Employees,Broadcast Media
+HSBC,3.8,27.6T,5.2T,3.1T,10000+ Employees,Banking & Lending
+Qualcomm,4.1,9.8T,3.8T,42,10000+ Employees,Computer Hardware Development
+Bank of America,4,38.5T,2.8T,1.1T,10000+ Employees,Banking & Lending
+Goldman Sachs,3.9,17.1T,5.1T,1.2T,10000+ Employees,Investment & Asset Management
+Target,4.3,77.5T,1.6T,11.6T,1001 to 5000 Employees,General Merchandise & Superstores
+Honeywell,4,20.4T,5.6T,2.8T,10000+ Employees,Computer Hardware Development
+Mindtree,4,11.1T,9.9T,0,10000+ Employees,Information Technology Support Services
+JPMorgan Chase & Co,4,23.5T,3.6T,5.6T,10000+ Employees,Banking & Lending
+CGI,3.9,16.3T,4.9T,2.4T,10000+ Employees,Business Consulting
+Barclays,4,18T,5.1T,512,10000+ Employees,Banking & Lending
+Siemens,4.1,20.4T,4.5T,11.3T,10000+ Employees,Electronics Manufacturing
+ICICI Bank,3.7,11.7T,12.3T,11,10000+ Employees,Banking & Lending
+Mphasis,3.6,8.8T,7.4T,18,10000+ Employees,Information Technology Support Services
+Verizon,3.8,32.7T,2.5T,1.8T,10000+ Employees,Telecommunications Services
+Ericsson-Worldwide,4.2,18T,5T,675,10000+ Employees,Telecommunications Services
+ADP,4,18.7T,3.3T,2.1T,10000+ Employees,Enterprise Software & Network Solutions
+NTT DATA,3.9,14.1T,5.9T,8.8T,10000+ Employees,Information Technology Support Services
+Nokia,4.2,17.8T,4.9T,828,10000+ Employees,Telecommunications Services
+Hewlett Packard Enterprise | HPE,4.2,16.9T,3.9T,850,10000+ Employees,Information Technology Support Services
+Morgan Stanley,3.9,17.7T,3.4T,786,10000+ Employees,Investment & Asset Management
+Freelancer,4.2,14.9T,6.2T,44,501 to 1000 Employees,HR Consulting
+Salesforce,4.3,17.3T,2.5T,966,10000+ Employees,Enterprise Software & Network Solutions
+Capgemini Engineering,3.7,12.1T,5.8T,1.9T,10000+ Employees,Information Technology Support Services
+American Express,4.2,16T,4.4T,203,10000+ Employees,Financial Transaction Processing
+Amdocs,4,10.7T,6.8T,59,10000+ Employees,Enterprise Software & Network Solutions
+Publicis Sapient,3.8,9.3T,7.1T,582,10000+ Employees,Business Consulting
+Robert Bosch,4.3,15.3T,4.4T,262,10000+ Employees,Computer Hardware Development
+ZS Associates,3.8,7T,7.9T,134,10000+ Employees,Business Consulting
+McDonald's,3.5,1.2L,652,93.5T,10000+ Employees,Restaurants & Cafes
+IQVIA,4,12.9T,4T,2.1T,10000+ Employees,Biotech & Pharmaceuticals
+Cognizant,3.8,8.4T,8.1T,21,1 to 50 Employees,N/A
+Thomson Reuters,4.4,15.1T,2.8T,709,10000+ Employees,Enterprise Software & Network Solutions
+FIS,3.7,11.2T,5.2T,1.2T,10000+ Employees,Financial Transaction Processing
+Vodafone,4,16.3T,3T,3.8T,10000+ Employees,Telecommunications Services
+UST,3.9,7.5T,4.9T,1.4T,10000+ Employees,Information Technology Support Services
+Apple,4.3,38.9T,1.1T,4.2T,10000+ Employees,Computer Hardware Development
+Cerner,3.6,10T,3.6T,109,10000+ Employees,Computer Hardware Development
+Fidelity Investments,4.3,14.9T,2.5T,1.2T,10000+ Employees,Investment & Asset Management
+Virtusa,3.8,8.3T,6.2T,775,10000+ Employees,Information Technology Support Services
+GE,4,18.3T,2.3T,1.2T,10000+ Employees,Machinery Manufacturing
+HDFC Bank,3.5,7.9T,9.1T,8.6T,10000+ Employees,Banking & Lending
+Larsen & Toubro,3.8,7.2T,6.7T,6,10000+ Employees,Construction
+Atos-Syntel,3.6,7.6T,5.7T,48,10000+ Employees,Information Technology Support Services
+VMware,4.5,10.9T,3.3T,677,10000+ Employees,Enterprise Software & Network Solutions
+Adobe,4.4,8.9T,4.2T,444,10000+ Employees,Computer Hardware Development
+Atos,3.7,12.3T,3.7T,2.3T,10000+ Employees,Information Technology Support Services
+TCS,3.9,7.2T,8T,0,Unknown,N/A
+UnitedHealth Group,3.7,16T,1.8T,1.1T,10000+ Employees,Healthcare Services & Hospitals
+Tata Consultancy Services (North America),3.8,9.1T,5.4T,1.5T,10000+ Employees,Information Technology Support Services
+Deutsche Bank,4,12T,3.1T,2.7T,10000+ Employees,Banking & Lending
+Schneider Electric,4.2,13.9T,3T,3.4T,10000+ Employees,Energy & Utilities
+Philips,4,11.3T,2.5T,1.2T,10000+ Employees,Healthcare Services & Hospitals
+Optum,3.7,9.8T,3.6T,3.1T,10000+ Employees,Healthcare Services & Hospitals
+Credit Suisse,4.1,11.8T,3T,335,10000+ Employees,Investment & Asset Management
+Samsung Electronics,3.8,13.9T,3.3T,44,10000+ Employees,Electronics Manufacturing
+BNY Mellon,3.6,11.1T,3.3T,4.2T,10000+ Employees,Investment & Asset Management
+Lowe's Home Improvement,4.3,39.7T,1T,5.6T,1001 to 5000 Employees,Home Furniture & Housewares Stores
+NatWest Group,4,8.9T,3.9T,583,10000+ Employees,Banking & Lending
+Société Générale,3.8,11.2T,2.8T,3.2T,10000+ Employees,Investment & Asset Management
+Zensar Technologies,3.9,4.3T,3.3T,164,5001 to 10000 Employees,Information Technology Support Services
+Persistent Systems,4,5.9T,5.8T,85,10000+ Employees,Information Technology Support Services
+McKinsey & Company,4.3,10.1T,1.6T,101,10000+ Employees,Business Consulting
+Sutherland,3.8,8.9T,3.5T,469,10000+ Employees,HR Consulting
+Hexaware Technologies,3.7,5.2T,4.4T,79,10000+ Employees,Information Technology Support Services
+Axis Bank,3.8,6.5T,6.8T,44,10000+ Employees,Banking & Lending
+SelfEmployed.com,4.4,10.5T,2.4T,0,Unknown,Business Consulting
+Reliance Industries,3.9,6.2T,6.6T,33,10000+ Employees,Energy & Utilities
+Unilever,4.1,15.1T,1.7T,857,10000+ Employees,Consumer Product Manufacturing
+BNP Paribas,3.8,13.6T,2T,5T,10000+ Employees,Banking & Lending
+UBS,4,13.4T,1.8T,741,10000+ Employees,Investment & Asset Management
+Jio,3.8,5.6T,6.5T,32,5001 to 10000 Employees,"Cable, Internet & Telephone Providers"
+Flipkart,4,5.1T,7T,90,10000+ Employees,Internet & Web Services
+GlobalLogic,3.9,6.4T,4.5T,1.1T,10000+ Employees,Information Technology Support Services
+Shell,4.1,13.2T,2T,1.1T,10000+ Employees,Energy & Utilities
+AT&T,3.6,39.3T,625,2.4T,10000+ Employees,Telecommunications Services
+First Student,3.9,4.1T,7.6T,1.6T,10000+ Employees,Taxi & Car Services
+TEKsystems,4.2,10.3T,1.9T,1.6T,1001 to 5000 Employees,HR Consulting
+Huawei Technologies,3.8,13.8T,1.8T,13,10000+ Employees,Telecommunications Services
+Ford Motor Company,4,13T,1.8T,2.8T,10000+ Employees,Transportation Equipment Manufacturing
+EXL Service,3.8,5.5T,5.1T,2.3T,10000+ Employees,Business Consulting
+Coforge,3.7,5.8T,3.4T,77,10000+ Employees,Information Technology Support Services
+Nagarro,4.2,4.4T,4.6T,1T,10000+ Employees,Information Technology Support Services
+NVIDIA,4.6,5.1T,1.8T,2.9T,10000+ Employees,Computer Hardware Development
+Standard Chartered Bank,3.9,8.7T,3.1T,2.1T,10000+ Employees,Banking & Lending
+Novartis,4,9.6T,2.1T,2.1T,10000+ Employees,Biotech & Pharmaceuticals
+TaskUs,4.6,14.5T,1.5T,438,10000+ Employees,Information Technology Support Services
+HP Inc.,4.2,9.3T,2T,1.1T,10000+ Employees,Computer Hardware Development
+Mu Sigma,3.6,4.1T,4.6T,0,1001 to 5000 Employees,Business Consulting
+Bharti Airtel,4.1,5.8T,5T,1.7T,10000+ Employees,Telecommunications Services
+PayPal,4.2,7.9T,1.9T,1.1T,10000+ Employees,Internet & Web Services
+Zoho,4.5,3.8T,4.4T,55,201 to 500 Employees,Computer Hardware Development
+EPAM Systems,4.2,8.6T,1.7T,1.4T,10000+ Employees,Information Technology Support Services
+L&T Technology Services,3.4,5.2T,4.8T,1.8T,10000+ Employees,Information Technology Support Services
+PepsiCo,4,18.9T,853,6T,10000+ Employees,Food & Beverage Manufacturing
+S&P Global,4.1,6.5T,2.4T,2T,10000+ Employees,Research & Development
+WhiteHat Jr,3.7,5.7T,5.1T,0,5001 to 10000 Employees,Education Support & Training Services
+State Street,3.8,9.2T,1.8T,477,10000+ Employees,Investment & Asset Management
+ABB,4.1,9T,2T,3.8T,10000+ Employees,Electronics Manufacturing
+Sopra Steria,3.8,6.7T,2.3T,1.5T,10000+ Employees,Information Technology Support Services
+Infosys BPM,3.6,5.3T,4.4T,2.6T,10000+ Employees,HR Consulting
+Foundever,3.6,14.7T,1.1T,763,10000+ Employees,Telecommunications Services
+Robert Bosch India,4,4.4T,4.4T,1,Unknown,Machinery Manufacturing
+Kotak Mahindra Bank,3.7,4.8T,4.6T,5T,10000+ Employees,Banking & Lending
+HARMAN,3.9,4.9T,3.3T,695,10000+ Employees,Consumer Product Manufacturing
+Anonymous,3.8,4.4T,2.7T,4,1 to 50 Employees,N/A
+WNS,3.4,4.9T,4.1T,286,10000+ Employees,HR Consulting
+Anonymous Content,3.8,5.1T,2T,1,51 to 200 Employees,Film Production
+Boeing,3.8,15.2T,767,2T,10000+ Employees,Aerospace & Defence
+Boston Consulting Group,4.1,7.8T,1.6T,1.2T,10000+ Employees,Business Consulting
+Intuit,4.6,10T,1.1T,1.8T,10000+ Employees,Software Development
+Starbucks,3.7,65.2T,314,24.4T,10000+ Employees,Restaurants & Cafes
+Fujitsu,3.7,6.1T,1.2T,2.7T,10000+ Employees,Enterprise Software & Network Solutions
+Paytm,3.6,3.9T,4.7T,402,10000+ Employees,Internet & Web Services
+CBRE,4,10.9T,1.2T,4T,10000+ Employees,Real Estate
+Nestlé,4.1,14.4T,963,2T,10000+ Employees,Food & Beverage Manufacturing
+Randstad,3.8,9T,1.2T,1.1L,501 to 1000 Employees,HR Consulting
+Meta,3.9,15.8T,476,2.2T,10000+ Employees,Internet & Web Services
+Birlasoft,3.6,3T,2.7T,156,1001 to 5000 Employees,Enterprise Software & Network Solutions
+DONE by NONE,4,4.1T,3.7T,0,1 to 50 Employees,Computer Hardware Development
+Aon,4,7.1T,1.2T,806,10000+ Employees,Insurance Agencies & Brokerages
+JLL,3.9,9.3T,1.5T,4.1T,10000+ Employees,Real Estate
+KPIT Technologies,3.8,3.9T,3.3T,122,5001 to 10000 Employees,Information Technology Support Services
+Marriott International,4,16.9T,882,31.4T,10000+ Employees,Hotels & Resorts
+Hinduja Global Solutions,3.5,4.5T,2.2T,24,10000+ Employees,Enterprise Software & Network Solutions
+Johnson & Johnson,4.2,15.1T,831,1.5T,10000+ Employees,Biotech & Pharmaceuticals
+SLB,4,11.6T,958,403,10000+ Employees,Energy & Utilities
+Cyient,3.6,3.3T,2.6T,497,10000+ Employees,Information Technology Support Services
+Tesco,3.7,24.9T,493,2.4T,10000+ Employees,Grocery Stores
+Gartner,4.1,7.1T,1.4T,513,10000+ Employees,Business Consulting
+Nones,3.9,2.8T,3.6T,2,Unknown,N/A
+Nielsen,3.7,8.7T,1.3T,428,10000+ Employees,Enterprise Software & Network Solutions
+Johnson Controls,3.6,8.8T,1.3T,3.1T,10000+ Employees,Machinery Manufacturing
+Nielsen,3.7,8.7T,1.3T,428,10000+ Employees,Enterprise Software & Network Solutions
+XYZ,3.8,3.3T,3.6T,2,1 to 50 Employees,Computer Hardware Development
+Bain & Company,4.4,6.9T,1.6T,128,10000+ Employees,Business Consulting
+Procter & Gamble,4.1,16T,677,332,10000+ Employees,Consumer Product Manufacturing
+Collabera,3.8,4.4T,1.7T,12,10000+ Employees,"Staffing, Recruitment & Subcontracting"
+GE HealthCare,4.3,7.2T,1.5T,1.2T,5001 to 10000 Employees,Healthcare Services & Hospitals
+eClerx,3.5,3.8T,3.6T,87,10000+ Employees,Business Consulting
+Cummins,4.2,7.5T,1.1T,1.2T,10000+ Employees,Transportation Equipment Manufacturing
+Mastercard,4.3,5.8T,1.6T,786,10000+ Employees,Financial Transaction Processing
+Tata Motors,4.2,3.8T,3.9T,0,10000+ Employees,Transportation Equipment Manufacturing
+Self Opportunity,4.3,5T,2.1T,0,51 to 200 Employees,Advertising & Public Relations
+Informatica,4.1,2.9T,1.7T,27,5001 to 10000 Employees,Enterprise Software & Network Solutions
+Northern Trust,3.9,5T,1.9T,519,10000+ Employees,Banking & Lending
+Caterpillar,4,7.7T,1.1T,943,10000+ Employees,Machinery Manufacturing
+GSK,4.1,12.2T,779,1.9T,10000+ Employees,Biotech & Pharmaceuticals
+Thoughtworks,4.4,3.8T,2T,32,5001 to 10000 Employees,Information Technology Support Services
+Kantar,3.7,5.5T,1.7T,215,10000+ Employees,Research & Development
+MAERSK,4.2,5.5T,2T,2.4T,10000+ Employees,Marine Transportation
+DBS Bank,4,6.9T,1.3T,1.4T,10000+ Employees,Banking & Lending
+Eaton,4.1,6.7T,1.3T,3T,10000+ Employees,Electronics Manufacturing
+Visa Inc.,4.1,6T,1.1T,601,10000+ Employees,Information Technology Support Services
+NCR,3.6,7.2T,1.4T,974,10000+ Employees,Enterprise Software & Network Solutions
+Texas Instruments,4.5,5.2T,1.2T,267,10000+ Employees,Electronics Manufacturing
+Expedia Group,4.1,6.8T,1T,206,10000+ Employees,Internet & Web Services
+Grant Thornton,3.9,7T,1.4T,1.7T,5001 to 10000 Employees,Accounting & Tax
+Cybage Software,4,3.6T,3.3T,42,5001 to 10000 Employees,Information Technology Support Services
+FactSet,4.1,3.9T,1.5T,86,10000+ Employees,Investment & Asset Management
+Continental,4.1,8.1T,1.1T,4T,5001 to 10000 Employees,Transportation Equipment Manufacturing
+ServiceNow,4.4,4T,992,533,10000+ Employees,Enterprise Software & Network Solutions
+ICICI Prudential Life Insurance,4.4,3.9T,3.1T,155,10000+ Employees,Insurance Carriers
+Abbott,3.8,9.5T,900,2.3T,10000+ Employees,Healthcare Services & Hospitals
+John Deere,4.2,6.1T,1.3T,842,10000+ Employees,Machinery Manufacturing
+NetApp,4.2,5T,1.4T,150,10000+ Employees,Enterprise Software & Network Solutions
+Mercer,3.9,5.9T,1.2T,363,10000+ Employees,Business Consulting
+Emerson,3.9,6.8T,1.2T,1.6T,10000+ Employees,Electronics Manufacturing
+Decathlon,4,7.7T,1.2T,2.6T,10000+ Employees,Sporting Goods Stores
+Unisys,3.6,5T,1.7T,771,10000+ Employees,Information Technology Support Services
+NortonLifeLock,3.8,5T,1.3T,0,1001 to 5000 Employees,Computer Hardware Development
+Lumen,3.8,7.1T,950,1T,10000+ Employees,Enterprise Software & Network Solutions
+UPS,3.5,33T,257,3.4T,10000+ Employees,Shipping & Trucking
+UPS,3.5,33T,257,3.4T,10000+ Employees,Shipping & Trucking
+Mahindra,4,3.3T,3.1T,451,10000+ Employees,Transportation Equipment Manufacturing
+LinkedIn,4.3,6.6T,878,33,10000+ Employees,Internet & Web Services
+Globant,4.3,7.5T,961,154,10000+ Employees,Software Development
+Labcorp,3.7,9.4T,681,2.6T,10000+ Employees,Healthcare Services & Hospitals
+WTW,3.9,7.2T,900,2T,10000+ Employees,Business Consulting
+Amadeus,4,4.6T,1.6T,506,10000+ Employees,Information Technology Support Services
+AstraZeneca,4.1,7T,940,2.2T,10000+ Employees,Biotech & Pharmaceuticals
+Synopsys,4.1,3.4T,1.4T,416,10000+ Employees,Computer Hardware Development
+Fresher,4.1,851,6.5T,0,1 to 50 Employees,N/A
+State Bank of India,3.7,3.2T,3.4T,26,10000+ Employees,Banking & Lending
+Citrix,3.6,4.6T,1.3T,4,5001 to 10000 Employees,Enterprise Software & Network Solutions
+ALSTOM,3.8,4.9T,1.4T,3.6T,10000+ Employees,Rail Transportation
+Thermo Fisher Scientific,3.7,9.5T,610,3.2T,10000+ Employees,Biotech & Pharmaceuticals
+Juniper Networks,4.3,4.1T,1.6T,262,5001 to 10000 Employees,Telecommunications Services
+Allianz,4,6.6T,1.1T,1.3T,10000+ Employees,Investment & Asset Management
+Comcast,3.8,15.7T,378,1.9T,10000+ Employees,Telecommunications Services
+IGATE,3.9,2.8T,1.8T,8.7T,10000+ Employees,Information Technology Support Services
+General Motors (GM),4,12T,437,750,10000+ Employees,Transportation Equipment Manufacturing
+TTEC,3.5,9.6T,693,748,10000+ Employees,HR Consulting
+OpenText,3.6,4.1T,1.5T,920,10000+ Employees,Enterprise Software & Network Solutions
+Capital One,4.1,15.4T,344,1.5T,10000+ Employees,Banking & Lending
+ANZ,4.1,4.9T,1.4T,200,5001 to 10000 Employees,Banking & Lending
+Evalueserve,3.8,3.3T,2.3T,0,1001 to 5000 Employees,Business Consulting
+Tata Communications,4,3.3T,2.7T,1.3T,5001 to 10000 Employees,"Cable, Internet & Telephone Providers"
+UKG,3.7,5.6T,754,293,10000+ Employees,Enterprise Software & Network Solutions
+Zomato,3.9,2.7T,3.1T,1,1001 to 5000 Employees,Internet & Web Services
+HighRadius,3.6,2.9T,2.9T,32,1001 to 5000 Employees,Enterprise Software & Network Solutions
+TATA ELXSI,4.1,2.7T,2.7T,100,10000+ Employees,Information Technology Support Services
+BDO,3.7,8T,761,361,10000+ Employees,Accounting & Tax
+BDO,3.7,8T,761,361,10000+ Employees,Accounting & Tax
+MetLife,3.9,6.8T,785,653,10000+ Employees,Insurance Agencies & Brokerages
+Swiggy,3.9,2.3T,2.8T,44,10000+ Employees,Internet & Web Services
+Adecco,3.7,9T,527,92.4T,201 to 500 Employees,"Staffing, Recruitment & Subcontracting"
+Micron Technology,3.7,6.3T,698,352,10000+ Employees,Computer Hardware Development
+ValueLabs,4.3,2.7T,2.3T,1,5001 to 10000 Employees,Information Technology Support Services
+Western Digital,3.7,3.9T,914,389,10000+ Employees,Computer Hardware Development
+IHS Markit,4,4.1T,1.2T,4,10000+ Employees,Business Consulting
+IGT Solutions,4.6,4.3T,1.8T,25,10000+ Employees,Information Technology Support Services
+Medtronic,3.9,9.3T,471,1.3T,10000+ Employees,Health Care Products Manufacturing
+Dassault Systemes,4,3.6T,1.3T,511,10000+ Employees,Software Development
+ITC,3.7,2.6T,2.6T,4,10000+ Employees,Consumer Product Manufacturing
+AECOM,3.8,9.7T,540,6.2T,10000+ Employees,Architectural & Engineering Services
+Ubisoft,3.8,4.6T,895,397,10000+ Employees,Video Game Publishing
+Morningstar,4.1,2.8T,1.5T,182,5001 to 10000 Employees,Research & Development
+Orange,4,8.4T,569,908,10000+ Employees,Telecommunications Services
+Broadcom,3.7,4T,929,195,10000+ Employees,Electronics Manufacturing
+Parexel,3.8,3.3T,855,525,10000+ Employees,Biotech & Pharmaceuticals
+HERE Technologies,3.6,3.1T,1.7T,114,5001 to 10000 Employees,Software Development
+Volvo Group,4.2,4.9T,685,1.2T,10000+ Employees,Transportation Equipment Manufacturing
+CRISIL,3.9,2.5T,2.4T,172,1001 to 5000 Employees,Research & Development
+Akamai,4.7,2.9T,1.2T,161,5001 to 10000 Employees,Information Technology Support Services
+upGrad,4.2,2.3T,2T,39,1001 to 5000 Employees,Colleges & Universities
+Siemens Healthineers,4.1,4.3T,1.1T,1.7T,10000+ Employees,Biotechnology
+Domino's,3.5,16.2T,359,33.5T,10000+ Employees,Restaurants & Cafes
+Infor,4,4.6T,985,356,10000+ Employees,Enterprise Software & Network Solutions
+Valeo,3.9,5.4T,837,2.7T,10000+ Employees,Transportation Equipment Manufacturing
+Anheuser-Busch InBev,3.8,4.3T,904,0,10000+ Employees,Food & Beverage Manufacturing
+Allstate,3.5,10T,366,1.8T,10000+ Employees,Insurance Agencies & Brokerages
+L'Oréal,4,12T,338,1.4T,10000+ Employees,Consumer Product Manufacturing
+Stryker,4.1,6.1T,510,1.6T,10000+ Employees,Health Care Products Manufacturing
+Capgemini Invent,4.1,3.7T,965,193,5001 to 10000 Employees,Business Consulting
+Freshworks,3.8,1.8T,2.6T,163,5001 to 10000 Employees,Enterprise Software & Network Solutions
+Yes Bank,3.9,2.3T,2.9T,1,10000+ Employees,Investment & Asset Management
+Red Hat,4.2,4.2T,871,154,10000+ Employees,Enterprise Software & Network Solutions
+AIG,3.6,7.6T,513,999,10000+ Employees,Insurance Carriers
+Epsilon,4.1,2.6T,918,241,5001 to 10000 Employees,Advertising & Public Relations
+Chegg,4.1,3T,1.8T,31,1001 to 5000 Employees,Internet & Web Services
+AMD,4.1,4.3T,748,894,10000+ Employees,Computer Hardware Development
+Tietoevry,4.3,2.9T,1.6T,641,10000+ Employees,Information Technology Support Services
+Saint-Gobain,4,4.7T,881,3.4T,10000+ Employees,Construction
+Tata Technologies,3.7,2.4T,2.1T,622,10000+ Employees,Research & Development
+Walmart Global Tech,3.9,2.2T,1.6T,4,1001 to 5000 Employees,Enterprise Software & Network Solutions
+CA Technologies,3.5,3.7T,853,0,10000+ Employees,Computer Hardware Development
+Blue Yonder,4.1,2.9T,1.6T,195,5001 to 10000 Employees,Enterprise Software & Network Solutions
+Maruti Suzuki,4,2.2T,2.6T,279,10000+ Employees,Transportation Equipment Manufacturing
+Tata Steel,4.1,2.5T,2T,630,10000+ Employees,Metal & Mineral Manufacturing
+Wipro,3.7,2.3T,2.4T,2,Unknown,N/A
+Jacobs,4,6.7T,604,3.2T,10000+ Employees,Architectural & Engineering Services
+Fractal,4.1,1.6T,1.9T,60,1001 to 5000 Employees,Business Consulting
+Applied Materials,4.1,3.8T,659,523,10000+ Employees,Electronics Manufacturing
+Movate,3.6,2.4T,1.8T,44,10000+ Employees,Information Technology Support Services
+H&M,3.6,15.5T,323,1.8T,10000+ Employees,"Department, Clothing & Shoe Stores"
+Infogain,4,2.6T,1.5T,86,5001 to 10000 Employees,Information Technology Support Services
+Accenture Solutions,4.1,2.2T,2.5T,0,10000+ Employees,N/A
+Pfizer,4.1,8.7T,415,1.6T,10000+ Employees,Biotech & Pharmaceuticals
+Other,4.1,1.9T,2T,1,1 to 50 Employees,"Civic, Welfare & Social Services"
+YASH Technologies,3.8,1.9T,1.7T,406,5001 to 10000 Employees,Information Technology Support Services
+CitiusTech,3.6,2T,1.8T,15,5001 to 10000 Employees,Information Technology Support Services
+Carelon Global Solutions,4,1.9T,2.1T,75,10000+ Employees,Information Technology Support Services
+Nutanix,4.2,2T,841,156,5001 to 10000 Employees,Enterprise Software & Network Solutions
+Cargill,4,7T,494,2T,10000+ Employees,Crop Production
+Altimetrik,4.1,1.8T,1.5T,3,5001 to 10000 Employees,Information Technology Support Services
+Whirlpool Corporation,4,6.1T,507,541,10000+ Employees,Consumer Product Manufacturing
+Pearson,3.7,7.9T,407,2.1T,10000+ Employees,Publishing
+BA Continuum India,4.3,2.2T,2.3T,0,5001 to 10000 Employees,Information Technology Support Services
+Quantiphi,3.6,1.3T,2T,67,1001 to 5000 Employees,Business Consulting
+Allscripts,3.9,2.8T,1.1T,56,5001 to 10000 Employees,Computer Hardware Development
+Broadridge,4,2.6T,990,351,10000+ Employees,Financial Transaction Processing
+IKEA,3.9,12.9T,264,2.5T,10000+ Employees,Home Furniture & Housewares Stores
